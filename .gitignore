@@ -1,3 +1,4 @@
 # User-spcific stuff:
 .idea/*
 *.iml
+.DS_Store
